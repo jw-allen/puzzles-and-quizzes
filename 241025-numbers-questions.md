@@ -42,3 +42,6 @@ To help (not much), I’ll tell you that the numbers are all distinct, and they 
 23. _Vol ### pour Sydney [Flight ### to Sydney]_, Hergé 🇧🇪
 24. _I Have Lived ### Years_, Livia Bitton-Jackson 🇭🇺🇨🇿🇸🇰
 25. _Uno, nessuno e ### [One, No One and ###]_, Luigi Pirandello 🇮🇹
+
+## Answers
+[Click here to see answer sheet](https://github.com/jw-allen/puzzles-and-quizzes/blob/0574f72a51509557663eaad7acba1dce5bd5c26d/241025-numbers-answers.md)
