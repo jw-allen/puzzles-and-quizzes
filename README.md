@@ -6,6 +6,6 @@
 ## Crosswords
 * 14/Dec/2024, **2024 Christmas crossword**, co-compiled with Kazoo
   * <a title="2024 Christmas Crossword, Crosshare link" href="https://crosshare.org/crosswords/Z2g4BDeTZUvVL8kOhRxx/2024-christmas-crossword">2024 Christmas Crossword, Crosshare link</a>
-  * <a title="2024 Christmas Crossword, ODT file" href="https://github.com/jw-allen/puzzles-and-quizzes/blob/7d84345ccb75ffec50064d1a56e6c9d19577087a/241214-christmas-crossword.odt">2024 Christmas Crossword, ODT file</a>
-  * <a title="2024 Christmas Crossword, PDF file" href="https://github.com/jw-allen/puzzles-and-quizzes/blob/7d84345ccb75ffec50064d1a56e6c9d19577087a/241214-christmas-crossword.pdf">2024 Christmas Crossword, PDF file</a>
-  * <a title="2024 Christmas Crossword, PUZ file" href="https://github.com/jw-allen/puzzles-and-quizzes/blob/541b06f8c6957b8c4ccd5883503f096d1136e2a2/241214-christmas-crossword.puz">2024 Christmas Crossword, PUZ file</a>
+  * <a title="2024 Christmas Crossword, ODT file" href="241214-christmas-crossword.odt">2024 Christmas Crossword, ODT file</a>
+  * <a title="2024 Christmas Crossword, PDF file" href="241214-christmas-crossword.pdf">2024 Christmas Crossword, PDF file</a>
+  * <a title="2024 Christmas Crossword, PUZ file" href="241214-christmas-crossword.puz">2024 Christmas Crossword, PUZ file</a>
